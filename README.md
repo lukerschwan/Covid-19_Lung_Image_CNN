@@ -1,1 +1,14 @@
 # Covid-19_Lung_Image_CNN
+
+
+Dataset Trained with ->
+Joseph Paul Cohen and Paul Morrison and Lan Dao
+COVID-19 image data collection, arXiv:2003.11597, 2020
+https://github.com/ieee8023/covid-chestxray-dataset
+@article{cohen2020covid,
+  title={COVID-19 image data collection},
+  author={Joseph Paul Cohen and Paul Morrison and Lan Dao},
+  journal={arXiv 2003.11597},
+  url={https://github.com/ieee8023/covid-chestxray-dataset},
+  year={2020}
+}
