@@ -11,4 +11,4 @@ https://github.com/ieee8023/covid-chestxray-dataset
   journal={arXiv 2003.11597},
   url={https://github.com/ieee8023/covid-chestxray-dataset},
   year={2020}
-}
+} 
